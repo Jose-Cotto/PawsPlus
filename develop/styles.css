@@ -5,6 +5,7 @@
     font-family: sans-serif;
 }
 
+
 .background{
     width: 100%;
     min-height: 100vh;
@@ -52,4 +53,18 @@
     width: 50px;
     background: transparent;
     cursor: pointer;
+}
+
+.dropdown{
+    background: transparent;
+    padding-left: 5px;
+    color: #cac7ff;
+    font-size: larger;
+}
+
+#pet-type{
+    background: transparent;
+    border: none;
+    font-size: larger;
+    color: #cac7ff;
 }
